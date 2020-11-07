@@ -1,6 +1,6 @@
 # random stuff/ code dump
 
-1. watermark.ipynb = watermarks all shit you want to watermark
+1. watermark.ipynb = watermarks all stuff you want to watermark
 2. covid-19= gets colorful pinkish graphs on covid 19 total cases in NCR. (you need to modify a lil bit if u gon update the csv file)
 3. mnist-machine = reconstructs noisy mnist images 
 
